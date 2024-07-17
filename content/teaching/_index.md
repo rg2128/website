@@ -1,23 +1,7 @@
 ---
-title: Teaching
-summary: My courses
-type: landing
+title: Impulsive and instrumental aggression in inequity induced frustration
+date: 2023-10-26
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
 
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+
 ---

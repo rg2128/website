@@ -42,6 +42,7 @@ interests:
   - Attention systems
   - Neural recordings
   - Social behaviors
+
 education:
   - area: PhD Biology
     institution: Stowers Institute for Medical Research
