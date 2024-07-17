@@ -46,7 +46,7 @@ interests:
 education:
   - area: PhD Biology
     institution: Stowers Institute for Medical Research
-    date_start: 2017-08-10
+    date_start: 2017-08-12
     date_end: 2024-08-19
     summary: >
       Thesis on neural logic of attention allocation on sensory processing. Supervised by [Prof C. Ron Yu](https://research.stowers.org/yulab/).
