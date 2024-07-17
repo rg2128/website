@@ -62,6 +62,6 @@ education:
 Hello, I'm Rahul Garg! 
 I am a researcher with a penchant for designing behavior paradigms and deciphering the brainwide neural logic of those behaviors. My research aims to rethink behavioral studies of attentional dysfunction and impulsive aggression in mice so that they reflect daily human experiences and struggles. Subtle but steady progress of behavior dysfunction will allow tracking behavior development aiding early biomarkers screens for these phenotypes. 
 
-I am currently a graduate student at the Stowers institute for medical research with Dr. Ron Yu's group which works on sensory system neuroscience. Here, I work with interdisciplinary group of people combining ideas from development of neural circuits, regeneration, imaging sytems to physiology. 
+I am currently a graduate student at the Stowers institute for medical research with [Dr. Ron Yu's group](https://research.stowers.org/yulab/)  which works on sensory system neuroscience. Here, I work with interdisciplinary group of people combining ideas from development of neural circuits, regeneration, imaging sytems to physiology. 
 
 In my research, I like to explain experimental findings, both behavioral and physiological, using theoretical frameworks including neural network and generalized linear models. For empirical data, I rely on neuromodulatory sensors, calcium imaging, neuropixel recordings when mice perform head-fixed or freely moving social behaviors.
