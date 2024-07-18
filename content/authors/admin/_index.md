@@ -80,7 +80,5 @@ awards:
     summary: |
       Summer innovation award for research work done at Cold Spring Harbor labs on mouse behavior automation and imaging
 ---
-
-## Hello, I'm Rahul Garg!
  
 
