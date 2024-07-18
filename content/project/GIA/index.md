@@ -1,6 +1,6 @@
 ---
 title: GIA
-date: ''
+date: 2017-09-25
 external_link: https://github.com/rg2128/GIA
 tags: 
   - Image processing
