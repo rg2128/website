@@ -65,7 +65,6 @@ education:
     date_end: 2016-08-01
     summary: |
       Summer research work - Cortical feedback in multisensory learning. Supervised by Prof Dinu Florin Albeanu.
-      
 
 awards:
   - title: Crossroads conference Oral presentation

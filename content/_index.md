@@ -35,7 +35,7 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        I am a researcher with a penchant for designing behavior paradigms and deciphering the brainwide neural logic of those behaviors. My research aims to rethink behavioral studies of attentional dysfunction and impulsive aggression in mice so that they reflect daily human experiences and struggles. 
+       I am a researcher with a penchant for designing behavior paradigms and deciphering the brainwide neural logic of those behaviors. My research aims to rethink behavioral studies of attentional dysfunction and impulsive aggression in mice so that they reflect daily human experiences and struggles. 
 
        I am currently a graduate student at the Stowers institute for medical research with [Dr. Ron Yu's group](https://research.stowers.org/yulab/)  which works on sensory system neuroscience. Here, I work with interdisciplinary group of people combining ideas from development of neural circuits, regeneration, imaging sytems to physiology. 
         
