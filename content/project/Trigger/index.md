@@ -1,6 +1,6 @@
 ---
 title: Triggered time-series recording
-date: ""
+date:
 external_link: https://github.com/rg2128/micromanager
 tags: 
   - Image acquisition
