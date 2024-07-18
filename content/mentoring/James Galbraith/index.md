@@ -1,10 +1,10 @@
 ---
 title: Effect of hallucinations on early sensory processing
-date: 2023-10-26
+date: 2019-05 to 2019-07
 external_link: hhttps://www.linkedin.com/in/james-galbraith-33440319b/
 
 
 ---
 
-Development of mouse social frustration paradigm
+Imaging and analysis of glomerular activity from awake mice recordings
 <!--more-->

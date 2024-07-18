@@ -1,10 +1,10 @@
 ---
 title: Circuit tracing and whole brain registration
-date: 2023-10-26
+date: 2018-05 to 2018-07
 external_link: https://www.linkedin.com/in/marina-slashcheva/
 
 
 ---
 
-Development of mouse social frustration paradigm
+Neural tracing and analysis from virus infections
 <!--more-->

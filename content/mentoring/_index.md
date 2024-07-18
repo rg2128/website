@@ -16,7 +16,7 @@ sections:
       title: Mentoring
       filters:
         folders:
-          - Mentoring
+          - mentoring
     design:
       view: article-grid
       columns: 7
