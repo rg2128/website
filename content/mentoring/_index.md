@@ -19,5 +19,5 @@ sections:
           - mentoring
     design:
       view: article-grid
-      columns: 7
+      rows: 7
 ---

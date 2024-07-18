@@ -1,6 +1,6 @@
 ---
-title: Circuit tracing and whole brain registration
-date: 2018-05 to 2018-07
+title: Marina Slashcheva- Circuit tracing and whole brain registration
+date: 2018-05
 external_link: https://www.linkedin.com/in/marina-slashcheva/
 
 

@@ -32,25 +32,17 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: ''
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a researcher with a penchant for designing behavior paradigms and deciphering the brainwide neural logic of those behaviors. My research aims to rethink behavioral studies of attentional dysfunction and impulsive aggression in mice so that they reflect daily human experiences and struggles. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+       I am currently a graduate student at the Stowers institute for medical research with [Dr. Ron Yu's group](https://research.stowers.org/yulab/)  which works on sensory system neuroscience. Here, I work with interdisciplinary group of people combining ideas from development of neural circuits, regeneration, imaging sytems to physiology. 
         
-        Please reach out to collaborate 😃
+       In my research, I like to explain experimental findings, both behavioral and physiological, using theoretical frameworks including neural network and generalized linear models. For empirical data, I rely on neuromodulatory sensors, calcium imaging, neuropixel recordings when mice perform head-fixed or freely moving social behaviors.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
 ---
+
+
+
