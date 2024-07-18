@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Mentoring
 summary: Supervision of Masters students
 type: landing
 
@@ -11,13 +11,13 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: Mentoring
     content:
-      title: Teaching
+      title: Mentoring
       filters:
         folders:
-          - teaching
+          - Mentoring
     design:
       view: article-grid
-      rows: 7
+      columns: 7
 ---
