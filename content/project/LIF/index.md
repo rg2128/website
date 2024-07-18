@@ -1,6 +1,5 @@
 ---
 title: LIF
-date: 2020-04-20
 external_link: https://github.com/rg2128/LIF
 tags: 
   - Modeling
