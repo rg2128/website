@@ -50,14 +50,14 @@ education:
     date_start: 2017-08-12
     date_end: 2024-08-19
     summary: |
-      Thesis on neural logic of attention allocation on sensory processing. Supervised by Prof C. Ron Yu (https://research.stowers.org/yulab/).
+      Thesis on neural logic of attention allocation on sensory processing. Supervised by Prof C. Ron Yu (https://www.research.stowers.org/yulab/).
 
   - area: BTech Biological sciences and bioengineering
     institution: Indian Institute of Technology
     date_start: 2013-07-01
     date_end: 2017-05-31
     summary: |
-      Undergraduate research work - Carbon dioxide plume dynamics on mosquito host-seeking behavior. Supervised by Prof Nitin Gupta (https://sites.google.com/site/labofneuralsystems/).
+      Undergraduate research work - Carbon dioxide plume dynamics on mosquito host-seeking behavior. Supervised by Prof Nitin Gupta (https://www.sites.google.com/site/labofneuralsystems/).
 
 awards:
   - title: Crossroads conference Oral presentation
