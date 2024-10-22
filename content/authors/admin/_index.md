@@ -67,9 +67,15 @@ education:
       Summer research work - Cortical feedback in multisensory learning. Supervised by Prof Dinu Florin Albeanu.
 
 awards:
-  - title: Crossroads conference Oral presentation
+  - title: Crossroads Conference Oral presentation
     url: https://x.com/StowersXroads
-    date: '2021-09-01'
+    date: '2024-09-15'
+    awarder: Stowers Institute
+    summary: |
+      Voted first position among all graduate students at the institute for the talk "Inequity induced frustration enhances prefrontal cortex activity"
+  - title: Young Investigator Science Retreat Oral presentation
+    url: https://x.com/StowersXroads
+    date: '2021-09-15'
     awarder: Stowers Institute
     summary: |
       Awarded first position among all graduate students at the institute for the talk "Expectation influences perception in mouse olfactory bulb"
